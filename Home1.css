@@ -1,0 +1,11 @@
+.form{
+    background-color: blue;
+}
+.u-form-message {
+    display: grid;
+    flex-wrap: wrap;
+    align-items: flex-end;
+  }
+  .u-align-left {
+    text-align: left;
+  }
